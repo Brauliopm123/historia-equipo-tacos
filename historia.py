@@ -1,0 +1,3 @@
+print("Batman y superman van a un puesto de tacos por una oferta de tacos de 2x1 y no la van a desaprovechar.")
+print("Ambos llegan al puesto de tacos, Superman se pide 10 de pastor y Batman se pide 10 de bistec")
+print(" Cuando estaban a punto de dar el primer bocado, un portal interdimensional se abrió justo encima del puesto de tacos, y de él emergió una figura con capa, mirándolos fijamente. Los tacos de Superman y Batman cayeron al suelo mientras el misterioso ser se preparaba para hablar. El puesto de tacos se llenó de un silencio tenso, y el destino de su comida (y quizás el de todo el universo) quedó en suspenso.")
